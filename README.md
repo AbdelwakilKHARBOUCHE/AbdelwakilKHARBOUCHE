@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm studying **Applied Mathematics for Machine Intelligence (MAIM)** at the Faculté Pluridisciplinaire de Selouane, Nador, Morocco, with a background in Computer Systems and Networks.
+I'm studying **Applied Mathematics for Machine Intelligence (MAIM)** at the Faculté des Sciences Appliquées de Selouane, Nador(UMP), Morocco, with a background in Computer Systems and Networks.
 
 I'm interested in understanding the mathematics behind intelligent systems and translating theoretical ideas into practical implementations.
 
